@@ -1,2 +1,2 @@
-# Connect-Banking
-This application was created by me when I was doing internship at The Spark Foundation.
+# Connect-Banking-App
+It is a Banking Application built using Java and SQLite as a part of the Graduate Rotational Internship Program (GRIP) at The Sparks Foundation.
